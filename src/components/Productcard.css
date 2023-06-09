@@ -1,0 +1,34 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: 5px;
+    text-align: center;
+    font-family: arial;
+  }
+
+  .image-width{
+    width: 100%;
+    height: 400px;
+    
+  }
+  
+  button{
+   width: 150px;
+   border-radius: 10px;
+   border: none;
+   
+  }
+
+  .card-another{
+   
+    max-width: 150px;
+    margin: 5px;
+    text-align: center;
+    font-family: arial;
+    width: 300px;
+  }
+
+  .images-another{
+    width: 100%;
+    height: 200px
+  }

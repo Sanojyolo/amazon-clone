@@ -1,0 +1,70 @@
+.nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    height: 25px;
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
+    background-color: #000000;
+    color: white;
+    padding-bottom: 40px;
+   
+
+}
+
+.nav_logo{
+    position: fixed;
+    left: 20px;
+    width: 80px;
+    object-fit: contain;
+    width: 100px;
+    top: 8px;
+}
+
+.address-cont{
+    margin-left: 150px;
+    margin-right: 10px;
+}
+
+.search{
+    width: 60rem;
+    border: none;   
+    line-height: 40px;
+    border-radius: 4px;
+}
+.button-search{
+    height: 40px;
+    width: 50px;
+    background-color: 	#ff9900;
+    border: none;
+    border-radius: 4px;
+}
+
+.return{
+   padding-right: 30px;
+   padding-left: 70px;
+}
+
+
+.cart{
+    width: 80px;
+    
+    
+}
+
+.cart-button{
+    color: white;
+    background-color: #000000;
+    border: none;
+    height: 50px;
+    
+}
+
+.logo-cart{
+    font-size: 50px;
+}
+
+
+

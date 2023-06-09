@@ -1,0 +1,13 @@
+.banner{
+    color: white;
+    object-fit: contain;
+    width: 100%;
+}
+
+.images-bannerone{
+    width: 50%;
+}
+
+.images-bannertwo{
+    width: 50%;
+}
